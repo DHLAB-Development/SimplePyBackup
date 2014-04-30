@@ -1,0 +1,2 @@
+# NOTE - DO NOT USE THIS IN PRODUCTION, CONFIGURE IT FIRST
+* 12 * * * /path/to/backup.py
